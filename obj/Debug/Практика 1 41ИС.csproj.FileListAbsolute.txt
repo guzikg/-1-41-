@@ -1,0 +1,18 @@
+C:\Users\323\Desktop\Практика 1 41ИС\bin\Debug\Практика 1 41ИС.exe.config
+C:\Users\323\Desktop\Практика 1 41ИС\bin\Debug\Практика 1 41ИС.exe
+C:\Users\323\Desktop\Практика 1 41ИС\bin\Debug\Практика 1 41ИС.pdb
+C:\Users\323\Desktop\Практика 1 41ИС\bin\Debug\EntityFramework.dll
+C:\Users\323\Desktop\Практика 1 41ИС\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\323\Desktop\Практика 1 41ИС\bin\Debug\EntityFramework.xml
+C:\Users\323\Desktop\Практика 1 41ИС\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\323\Desktop\Практика 1 41ИС\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\323\Desktop\Практика 1 41ИС\obj\Debug\Практика 1 41ИС.csproj.AssemblyReference.cache
+C:\Users\323\Desktop\Практика 1 41ИС\obj\Debug\Практика 1 41ИС.csproj.SuggestedBindingRedirects.cache
+C:\Users\323\Desktop\Практика 1 41ИС\obj\Debug\Практика_1_41ИС.Properties.Resources.resources
+C:\Users\323\Desktop\Практика 1 41ИС\obj\Debug\Практика 1 41ИС.csproj.GenerateResource.cache
+C:\Users\323\Desktop\Практика 1 41ИС\obj\Debug\Практика 1 41ИС.csproj.CoreCompileInputs.cache
+C:\Users\323\Desktop\Практика 1 41ИС\obj\Debug\Практика 1 41ИС.csproj.CopyComplete
+C:\Users\323\Desktop\Практика 1 41ИС\obj\Debug\Практика 1 41ИС.exe
+C:\Users\323\Desktop\Практика 1 41ИС\obj\Debug\Практика 1 41ИС.pdb
+C:\Users\323\Desktop\Практика 1 41ИС\obj\Debug\Практика_1_41ИС.FormAddUsers.resources
+C:\Users\323\Desktop\Практика 1 41ИС\obj\Debug\Практика_1_41ИС.MainForm.resources
